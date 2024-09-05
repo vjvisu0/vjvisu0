@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vjvisu0
-- 👀 I’m interested in programming in c++ and python
+- 👀 I’m interested in programming in c++ 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email id: vjvisu36@gmail.com
